@@ -22,4 +22,4 @@ Vacation search map with cities pop-up markers and marker data:
 Vacation itinerary map with cities displaying markers:
 
 ![WeatherPy vacation itinerary map.](https://github.com/ClayMack/World_Weather_Analysis/blob/main/Vacation_Itinerary.ipynb/WeatherPy_travel_map.png "WeatherPy vacation itinerary map.")
-![image](https://user-images.githubusercontent.com/81714159/120219300-a0e3bc00-c200-11eb-9c47-55e1a19d9561.png)
+
